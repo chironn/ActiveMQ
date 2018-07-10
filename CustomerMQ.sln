@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerMQClient", "CustomerMQClient\CustomerMQClient.csproj", "{AD547A18-4C68-4241-B6E8-201C12479FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMQ", "ActiveMQ\ActiveMQ.csproj", "{310E8D36-9F2E-4A50-B8A9-E928858F2F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utilities", "utilities\utilities.csproj", "{8C4BA9E9-F847-450C-8CFA-48846104558F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD547A18-4C68-4241-B6E8-201C12479FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD547A18-4C68-4241-B6E8-201C12479FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD547A18-4C68-4241-B6E8-201C12479FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD547A18-4C68-4241-B6E8-201C12479FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310E8D36-9F2E-4A50-B8A9-E928858F2F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310E8D36-9F2E-4A50-B8A9-E928858F2F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310E8D36-9F2E-4A50-B8A9-E928858F2F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310E8D36-9F2E-4A50-B8A9-E928858F2F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4BA9E9-F847-450C-8CFA-48846104558F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4BA9E9-F847-450C-8CFA-48846104558F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4BA9E9-F847-450C-8CFA-48846104558F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4BA9E9-F847-450C-8CFA-48846104558F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
